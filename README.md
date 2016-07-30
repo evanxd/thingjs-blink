@@ -1,14 +1,7 @@
 # thingjs-blink
 A Thing.js extension blinks an LED.
 
-## How to Use
-```json
-{
-  "modules": {
-    "led" : { "module": "Led", "pins": 44 }
-  },
-  "extensions": {
-    "thingjs-blink": { "modules": "led", "interval": 500 }
-  }
-}
+## Run
+```sh
+path/to/thingjs board.json
 ```
