@@ -1,0 +1,8 @@
+{
+  "modules": {
+    "led" : { "module": "Led", "pins": 44 }
+  },
+  "extensions": {
+    "thingjs-blink": { "modules": "led", "interval": 500 }
+  }
+}
