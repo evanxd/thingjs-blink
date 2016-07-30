@@ -1,7 +1,7 @@
 {
   "name": "thingjs-blink",
   "description": "A Thing.js extension blinks an LED.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": {
     "name": "Evan Tseng",
     "email": "evan@tseng.io"
