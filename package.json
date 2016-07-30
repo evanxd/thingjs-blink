@@ -1,0 +1,23 @@
+{
+  "name": "thingjs-blink",
+  "description": "A Thing.js extension blinks an LED.",
+  "version": "0.0.1",
+  "author": {
+    "name": "Evan Tseng",
+    "email": "evan@tseng.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evanxd/thingjs-blink"
+  },
+  "keywords": [
+    "device",
+    "iot",
+    "linkit",
+    "maker",
+    "raspberry-pi"
+  ],
+  "devDependencies": {
+    "thing-js": "0.0.2"
+  }
+}
