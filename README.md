@@ -8,7 +8,7 @@ A Thing.js extension blinks an LED.
     "led" : { "module": "Led", "pins": 44 }
   },
   "extensions": {
-    "thingjs-blink": { "led": "led", interval": 500 }
+    "thingjs-blink": { "led": "led", "interval": 500 }
   }
 }
 ```
