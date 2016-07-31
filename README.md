@@ -1,4 +1,4 @@
-# Thingjs Blink
+# Thing.js Blink
 A Thing.js extension blinks an LED.
 
 ## Install Extension
