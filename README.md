@@ -17,7 +17,7 @@ Add `"thingjs-blink"` extension in `"extensions"`, and setup `"modules"` and `"i
 ## Run
 Go to the directory stored the [`board.json`][board-json] file, and run the below command.
 ```sh
-path/to/thingjs board.json
+path/to/thingjs
 ```
 
 [board-json]: https://github.com/evanxd/thingjs-blink/blob/master/board.json
