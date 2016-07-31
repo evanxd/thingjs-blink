@@ -1,8 +1,8 @@
 # thingjs-blink
 A Thing.js extension blinks an LED.
 
-## Install the extension in board.json
-Add `"thingjs-blink"` extension in `"extensions"`, and setup `"modules"` and `"interval"` parameters. The `"modules"` parameter is an LED object listed in `modules`, and the `"interval"` parameter is the blinking interval(ms).
+## Install the extension
+Add `"thingjs-blink"` extension in `"extensions"`, and setup `"modules"` and `"interval"` parameters in the [`board.json`][board-json] file. The `"modules"` parameter is an LED object listed in `modules`, and the `"interval"` parameter is the blinking interval(ms).
 ```json
 {
   "modules": {
